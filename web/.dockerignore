@@ -1,6 +1,0 @@
-node_modules
-.next
-/tests/
-
-# Explicitly include src/app/build (overrides .gitignore /build pattern)
-!src/app/build
